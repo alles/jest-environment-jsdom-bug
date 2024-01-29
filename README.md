@@ -13,7 +13,6 @@ Versions
 * babel 7.23.9
 
 #### Not work
-Reproduce this bug
 * yarn
 * yarn test
 
