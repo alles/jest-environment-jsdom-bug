@@ -1,5 +1,5 @@
-import { TestImportVar as TestImportVar1 } from 'entities1/Counter';
-import { TestImportVar } from 'entities/Counter';
+import { TestImportVar as TestImportVar1 } from 'anyOtherFolder/someModule';
+import { TestImportVar } from 'entities/someModule';
 
 describe('sum module', () => {
   test('adds 1 + 2 to equal 3', () => {
